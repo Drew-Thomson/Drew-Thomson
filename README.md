@@ -1,4 +1,13 @@
-## Hi there 👋
+## Experimental and Computational Peptide Chemistry
+
+WIP: This is some of the projects I have been working on as part of my research in Chemical Biology. Most code is written in Python, with a little C++. I'm in the process of tidying things up to make these projects more production quality. As things stand much of what is here is somewhat messy, if algorithmically sound.
+
+### Mini Bio
+I'm Drew Thomson, a lecturer in chemistry at University of Glasgow. My research focuses on peptides, and overlaps with chemical biology and materials chemistry. I'm interested in how computational methods can inform, refine, and improve experimental science by allowing us to ask better questions and to ask questions better. I'm originally and still an experimentalist: for my PhD I studied supramolecular organic chemistry, and from there got into peptide chemistry and biophysics, and latterly protein design. During my time as a postdoc working on protein design I was encouraged by very astute colleagues to learn to code, and the effect was transformative. I'm now a firm believer of the value of scientists (especially experimentalists) learning even just a little bit of coding, and want code to be accessible to everyone.
+
+My [Google Scholar profile](https://scholar.google.com/citations?user=JEH5eyAAAAAJ&hl=en) is here.
+
+When I'm not doing science I can be found riding mountain bikes, doing calisthenics, or picking locks. Separately, obvs, and not to a high standard.
 
 <!--
 **Drew-Thomson/Drew-Thomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
