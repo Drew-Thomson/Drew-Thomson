@@ -1,13 +1,49 @@
-## Experimental and Computational Peptide Chemistry
+# Drew Thomson
 
-WIP: This is some of the projects I have been working on as part of my research in Chemical Biology. Most code is written in Python, with a little C++. I'm in the process of tidying things up to make these projects more production quality. As things stand much of what is here is somewhat messy, if algorithmically sound.
+I am a lecturer in chemistry at the University of Glasgow working at the intersection of peptide chemistry, chemical biology, and computational methods. 
 
-### Mini Bio
-I'm Drew Thomson, a lecturer in chemistry at University of Glasgow. My research focuses on peptides, and overlaps with chemical biology and materials chemistry. I'm interested in how computational methods can inform, refine, and improve experimental science by allowing us to ask better questions and to ask questions better. I'm originally and still an experimentalist: for my PhD I studied supramolecular organic chemistry, and from there got into peptide chemistry and biophysics, and latterly protein design. During my time as a postdoc working on protein design I was encouraged by very astute colleagues to learn to code, and the effect was transformative. I'm now a firm believer of the value of scientists (especially experimentalists) learning even just a little bit of coding, and want code to be accessible to everyone.
+My background started in experimental supramolecular organic chemistry and peptide/protein biophysics before moving into de novo protein design and scientific computing. I use code to build tools, automate data processing, and model macromolecular systems, bridging the gap between wet-lab experiments and computational analysis.
 
-My [Google Scholar profile](https://scholar.google.com/citations?user=JEH5eyAAAAAJ&hl=en) is here.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=JEH5eyAAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1066--1369-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-1066-1369)
 
-When I'm not doing science I can be found riding mountain bikes, doing calisthenics, or picking locks. Separately, obvs, and not to a high standard.
+---
+
+### What I Work On
+
+- **Peptide & Protein Design:** Structural modeling, conformational analysis, and interpreting high-throughput experimental data.
+- **Scientific Tooling:** Writing modular Python and C++ utilities for data analysis, geometry calculation, and clustering.
+- **Workflow Automation:** Building reproducible data pipelines to handle structural ensembles and molecular simulations.
+
+---
+
+### Technical Toolkit
+
+- **Languages:** Python (NumPy, SciPy, standard scientific stack), C++, Bash, R
+- **Structural Biology & Chemistry:** BioPython, RDKit, OpenMM, MDTraj, PyMOL
+- **Development Practices:** Unit testing (`pytest`), static type hints, automated testing via GitHub Actions, packaging (`pyproject.toml`)
+
+---
+
+### Selected Repositories
+
+* **[AFcompetition](https://github.com/Drew-Thomson/AFcompetition)**  
+  An implementation of our AlphaFold competition assay as described in (Vosbien et al, *ACS Chem Bio*, 2024, 19 (10), 2198-2205). The code and associated notebook can be used to predict the stronger binder of two potential ligands for a protein.
+
+
+* **[DPCluster](https://github.com/Drew-Thomson/DPCluster)**  
+  A Python implementation of Density Peak clustering (Rodriguez & Laio, *Science* 2014) designed for structural ensembles and molecular trajectories. Vectorized with NumPy, adheres to scikit-learn conventions (`fit`, `predict`), and includes automated unit tests.
+
+
+* **[dASPR](https://github.com/Drew-Thomson/dASPR)**  
+  A modified version of the FASPR side chain packing algorithm that enables side chain packing for mixed l- and d- amino acid systems.
+
+---
+
+### Background
+
+Outside the lab and the terminal, I can be found spending time with family, mountain biking, practicing calisthenics, or picking locks.
 
 <!--
 **Drew-Thomson/Drew-Thomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
