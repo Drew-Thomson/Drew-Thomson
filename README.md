@@ -12,8 +12,8 @@ My background started in experimental supramolecular organic chemistry and pepti
 
 ### What I Work On
 
-- **Peptide & Protein Design:** Structural modeling, conformational analysis, and interpreting high-throughput experimental data.
-- **Scientific Tooling:** Writing modular Python and C++ utilities for data analysis, geometry calculation, and clustering.
+- **Peptide & Protein Design:** Structural modelling, conformational analysis, and parametric protein design.
+- **Scientific Tooling:** Writing modular Python and C++ utilities for protein design workflows and data processing.
 - **Workflow Automation:** Building reproducible data pipelines to handle structural ensembles and molecular simulations.
 
 ---
