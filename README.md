@@ -18,6 +18,12 @@ My background started in experimental supramolecular organic chemistry and pepti
 
 ---
 
+### Collaborations
+
+I'm always keen to discuss potential collaborations, whether computational, experimental, or both! I'm interested in working with academic or industrial collaborators. If there's a project you think I might be able to contribute to feel free to reach out to me via LinkedIn or by email at [drew.thomson@glasgow.ac.uk]
+
+---
+
 ### Technical Toolkit
 
 - **Languages:** Python (NumPy, SciPy, standard scientific stack), C++, Bash, R
@@ -38,11 +44,6 @@ My background started in experimental supramolecular organic chemistry and pepti
 
 * **[dASPR](https://github.com/Drew-Thomson/dASPR)**  
   A modified version of the FASPR side chain packing algorithm that enables side chain packing for mixed l- and d- amino acid systems.
-
----
-### Collaborations
-
-I'm always keen to discuss potential collaborations, whether computational, experimental, or both! Feel free to reach out to me via LinkedIn or by email at [drew.thomson@glasgow.ac.uk]
 
 ---
 ### Background
