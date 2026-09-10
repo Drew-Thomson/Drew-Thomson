@@ -29,7 +29,7 @@ My background started in experimental supramolecular organic chemistry and pepti
 ### Selected Repositories
 
 * **[AFcompetition](https://github.com/Drew-Thomson/AFcompetition)**  
-  An implementation of our AlphaFold competition assay as described in (Vosbien et al, *ACS Chem Bio*, 2024, 19 (10), 2198-2205). The code and associated notebook can be used to predict the stronger binder of two potential ligands for a protein.
+  An implementation of our AlphaFold competition assay as described in [Vosbien et al, *ACS Chem Bio*, 2024, 19 (10), 2198-2205](https://doi.org/10.1021/acschembio.4c00418). The code and associated notebook can be used to predict the stronger binder of two potential ligands for a protein.
 
 
 * **[DPCluster](https://github.com/Drew-Thomson/DPCluster)**  
@@ -40,22 +40,13 @@ My background started in experimental supramolecular organic chemistry and pepti
   A modified version of the FASPR side chain packing algorithm that enables side chain packing for mixed l- and d- amino acid systems.
 
 ---
+### Collaborations
 
+I'm always keen to discuss potential collaborations, whether computational, experimental, or both! Feel free to reach out to me via LinkedIn or by email at [drew.thomson@glasgow.ac.uk]
+
+---
 ### Background
 
 Outside the lab and the terminal, I can be found spending time with family, mountain biking, practicing calisthenics, or picking locks.
 
-<!--
-**Drew-Thomson/Drew-Thomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
